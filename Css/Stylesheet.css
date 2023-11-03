@@ -1,0 +1,449 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.overall {
+   background-image: url(/image/bg4.jpg);
+   background-repeat: no-repeat;
+   background-size: 1400px;
+ 
+    margin: 0%;
+    padding: 0%;
+}
+
+.generaldiv {}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    height: 109px;
+    position: sticky;
+}
+
+.lowgo {
+
+    /* border: 2px solid blue; */
+    width: 250px;
+    height: 106px;
+}
+
+.naav {
+    /* border: 2px solid red; */
+    width: 17cm;
+    height: 106px;
+    margin-left: 200px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 34px 20px;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    /* border: 1px solid black; */
+    float: left;
+    padding: 12px;
+    width: 90px;
+    font-size: 16px;
+    color: rgba(202, 202, 202, 0.76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+li a:hover {
+    color: rgb(252, 252, 252);
+}
+
+.homecontent {
+    /* border: 2px solid purple; */
+    height: 600px;
+    display: flex;
+}
+
+.partone {
+    /* border: 2px solid green; */
+    width: 50vw;
+    height: 90.3vh;
+}
+
+.text {
+    /* border: 2px solid pink; */
+    padding: 1cm;
+    margin-top: 1cm;
+    /* height: ; */
+}
+
+.hairda {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.photo {
+    /* border: 2px solid maroon; */
+    padding: 1cm;
+
+}
+
+.changey {
+    font-weight: 700px;
+    font-size: 80px;
+    color: grey;
+    padding: 0%;
+}
+
+.paragraph {
+    /* border: 2px solid magenta; */
+    padding: 1cm;
+}
+
+.para {
+    line-height: 20px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    padding: 0px;
+    margin: 0px;
+    font-weight: 400;
+    font-size: 18px;
+    font-stretch: 100%;
+    text-align: start;
+    color: white;
+
+}
+
+.radius {
+    /* border: 2px solid indianred; */
+    padding: 1cm;
+    display: flex;
+    gap: 20px;
+    height: 7.8vh;
+
+}
+
+.radius1 {
+    background-color: #007e6a;
+    border-radius: 32px;
+    width: 130px;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.radius2 {
+    background-color: transparent;
+    border-radius: 32px;
+    border: 2px solid wheat;
+    width: 170px;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.parttwo {
+    /* border: 2px solid orange; */
+    height: 90.5vh;
+    width: 50vw;
+    background-color: transparent;
+}
+
+.par{
+    width: vw;
+    height: 90vh;
+    padding-left: 120px;
+}
+
+
+#page2 {}
+
+.secondpage {
+    /* border: 2px solid blue; */
+    display: flex;
+}
+
+.jaypeg {
+    /* border: 2px solid green; */
+    height: 100vh;
+    width: 40vw;
+    margin: 0px 0px 0px 22px;
+    background-image: url(/image/bg6.jpg);
+    background-size: 450px;
+    margin-top: 2cm;
+}
+
+.biography {
+    /* border: 2px solid crimson; */
+    width: 70vw;
+    height: 90vh;
+    margin: 2cm;
+}
+
+.bio {
+    color: #707070;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.lead {
+    color: #404040;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 38px;
+}
+
+.txt {
+    color: #707070;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 24px 0px;
+}
+
+.info {
+    /* border: 2px solid darkred; */
+    width: 40vw;
+    height: 4vh;
+    display: flex;
+}
+
+.nname {
+    /* border: 2px solid rgb(43, 31, 2); */
+    color: #404040;
+    font-size: 19.2px;
+    line-height: 28.8px;
+    margin: 0px 10px 0px 0px;
+    height: 4vh;
+    width: 18.2vw;
+    display: flex;
+    gap: 10px;
+    padding-left: 0cm;
+    padding-right: 1cm;
+}
+
+.oruko {
+    color: #404040;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
+
+.pee {
+    color: #404040;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 1px;
+    text-decoration: none;
+}
+
+.infor{
+    /* border: 2px solid darkred; */
+    width: 40vw;
+    height: 4.5vh;
+    display: flex;
+}
+
+.nnname{
+    /* border: 2px solid fuchsia; */
+    height: 4vh;
+    width: 18.2vw;
+    display: flex;
+    gap: 25px;
+}
+
+.otisumi{
+    /* border: 2px solid green; */
+    color: #404040;
+    font-size: 19.2px; 
+    line-height: 28.8px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    width: 270px;
+    height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 4px;
+}
+
+.social{
+    /* border: 2px solid rebeccapurple; */
+    display: flex;
+    height: 75px;
+    /* flex-direction: row; */
+    justify-content: space-between;
+    
+   
+}
+
+.fofo{
+    /* border: 2px solid green; */
+    height: 40px;
+    font-size: 18px;
+    font-family: sans-serif;
+    /* gap: 30px; */
+    text-align: center;
+}
+
+.hi{
+    /* border: 2px solid gray; */
+    font-size: 20px;
+    width: 200px;
+    margin-right: 380px;
+    height: 40px;
+}
+
+span{
+    margin-right: 6px;
+    
+}
+
+.rad2{
+    height: 70px;
+    display: flex;
+
+}
+
+.hireme{
+    background-color: #007e6a;
+    width: 130px;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 32px;
+}
+
+.r{    
+    background-color: #00be6c;
+    border-radius: 32px; 
+    width: 170px;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500px;
+    font-family: Verdana, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+
+.hrr{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.page3{}
+
+.pager3{
+    /* border: 2px solid fuchsia; */
+    display: flex ;
+    height: 100vh;
+    margin: 0px 74.5px;
+    padding:48px 15px;
+    
+
+}
+
+.Success{
+    text-align: center  ;
+    /* border: 2px solid red ; */
+    color: #404040;
+    font-size: 38px;
+    margin: 0px 0px 8px;
+    line-height: 48px;
+    margin-top: 62px;
+
+}
+
+.col1{
+    /* border: 2px solid fuchsia; */
+    width: 33.3%;
+    height: 90%;
+    margin-right: 26px;
+}
+
+.g1{
+    /* border: 2px solid green; */
+    /* background-color: cadetblue; */
+    height: 40%;
+    
+}
+
+.g2{
+    /* border: 2px solid green; */
+    /* background-color: cadetblue; */
+    height: 40%;
+    margin-top: 32px;
+}
+
+.finale{
+    border: 2px solid black;
+
+}
+
+.furta{
+    /* border: 2px solid brown; */
+    height: 230px;
+    background-image: url(/image/futa1.jpg);
+    place-self: ;
+}
+
+.furtad{
+    /* border: 2px solid brown; */
+    margin: 0;
+    height: 280px;
+    background-color: #061F24;
+    background-image: url(/image/futa2.jpg); 
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+
+/* .fewta{
+    border: 2px solid white;
+    height: 190px;
+    padding: 24px 15px;
+    margin: 0px 74.5px;
+}
+
+.logo{
+    border: 2px solid yellow;
+    height: 69px;
+    margin: 15px 300px 20px 350px;
+    color: white;
+    text-align: center;
+
+}
+
+.lowgow{
+    border: 2px solid royalblue;
+    height: 50px;
+   
+}
+
+.spa{
+    color: antiquewhite;
+} */
+
