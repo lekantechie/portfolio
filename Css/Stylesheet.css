@@ -12,7 +12,7 @@
     padding: 0%;
 }
 
-.generaldiv {}
+/* .generaldiv {} */
 
 .nav {
     display: flex;
@@ -171,7 +171,7 @@ li a:hover {
 }
 
 
-#page2 {}
+/* #page2 {} */
 
 .secondpage {
     /* border: 2px solid blue; */
@@ -355,7 +355,7 @@ span{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.page3{}
+/* .page3{} */
 
 .pager3{
     /* border: 2px solid fuchsia; */
@@ -408,7 +408,7 @@ span{
     /* border: 2px solid brown; */
     height: 230px;
     background-image: url(/image/futa1.jpg);
-    place-self: ;
+  
 }
 
 .furtad{
@@ -447,3 +447,77 @@ span{
     color: antiquewhite;
 } */
 
+.whatido{
+    border: 2px solid yellow;
+    height: 700px;
+}
+
+.inudiv{
+    border: 2px solid red;
+    height: 500px;
+    margin: 0px 74.5px;
+    padding: 48px 15px;
+    margin-top: 60px;
+}
+
+.kini{
+    border: 2px solid blue;
+    text-align: center;
+    font-weight: 600;   
+    font-size: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.minisec{
+    border: 2px solid fuchsia;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.webdev{
+    border: 2px solid aqua;
+    width: 33%;
+    height: 200px;
+    font-family: sans-serif;
+    
+    /* padding: 40px; */
+}
+
+.appdev{
+    border: 2px solid mediumslateblue;
+    width: 33%;
+    height: 200px;
+    font-family: sans-serif;
+    
+}
+
+.phorograph{
+    border: 2px solid seagreen ;
+    width: 33%;
+    height: 200px;
+    font-family: sans-serif;
+    
+}
+
+.ejowewe{
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 28px;
+    font-weight: 400;
+}
+
+.olololo{
+    line-height: 24px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.fa-solid fa-laptop{
+    height: 30px;
+}
