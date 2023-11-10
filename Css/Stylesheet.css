@@ -448,12 +448,12 @@ span{
 } */
 
 .whatido{
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
     height: 700px;
 }
 
 .inudiv{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     height: 500px;
     margin: 0px 74.5px;
     padding: 48px 15px;
@@ -461,7 +461,7 @@ span{
 }
 
 .kini{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     text-align: center;
     font-weight: 600;   
     font-size: 38px;
@@ -469,10 +469,11 @@ span{
     word-spacing: 0px;
     margin: 0px;
     padding: 0px;
+    color: #404044;
 }
 
 .minisec{
-    border: 2px solid fuchsia;
+    /* border: 2px solid fuchsia; */
     height: 500px;
     display: flex;
     justify-content: space-between;
@@ -480,7 +481,7 @@ span{
 }
 
 .webdev{
-    border: 2px solid aqua;
+    /* border: 2px solid aqua; */
     width: 33%;
     height: 200px;
     font-family: sans-serif;
@@ -489,7 +490,7 @@ span{
 }
 
 .appdev{
-    border: 2px solid mediumslateblue;
+    /* border: 2px solid mediumslateblue; */
     width: 33%;
     height: 200px;
     font-family: sans-serif;
@@ -497,7 +498,7 @@ span{
 }
 
 .phorograph{
-    border: 2px solid seagreen ;
+    /* border: 2px solid seagreen ; */
     width: 33%;
     height: 200px;
     font-family: sans-serif;
@@ -509,15 +510,17 @@ span{
     font-family: sans-serif;
     line-height: 28px;
     font-weight: 400;
+    color: #707070;
 }
 
 .olololo{
     line-height: 24px;
     font-size: 20px;
     font-weight: bold;
+    color: #303030;
 
 }
 
-.fa-solid fa-laptop{
-    height: 30px;
+.olololo:hover{
+    color: #007e6a;
 }
