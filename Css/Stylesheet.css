@@ -704,3 +704,50 @@ span {
     width: 400px;
     margin-left: 50px;
 }
+
+.smallpage {
+    /* border: 2px solid brown; */
+    height: 350px;
+}
+
+.innerpager {
+    /* border: 2px solid black; */
+    margin: 0px 74.5px;
+    padding: 48px 15px;
+    margin-top: 60px;
+    height: 140px;
+}
+
+.mainpage {
+    /* border: 2px solid rebeccapurple; */
+    height: 170px;
+    display: flex;
+    
+}
+
+.difone {
+    /* border: 2px solid green; */
+    width: 25%;
+
+}
+
+.namba {
+    font-size: 46px;
+    font-family: sans-serif;
+    font: 700;
+    line-height: 28px;
+    margin: 0px 0px 20px;
+    padding: 0px;
+    color: #404044;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.tititi {
+    color: #707070;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 18px;
+    line-height: 28px;
+    
+}
